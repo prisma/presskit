@@ -11,6 +11,6 @@
 
 ## Typography
 
-- **Headings** - Montserrat Bold
-- **Body** - Open Sans
-- **Code** - Roboto Mono
+- **Headings** - [Montserrat Bold](https://fonts.google.com/specimen/Montserrat)
+- **Body** - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- **Code** - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
