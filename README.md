@@ -11,6 +11,6 @@
 
 ## Typography
 
-- **Headings** - [Montserrat Bold](https://fonts.google.com/specimen/Montserrat)
-- **Body** - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- **Headings** - [Barlow](https://fonts.google.com/specimen/Barlow)
+- **Body** - [Inter](https://fonts.google.com/specimen/Inter)
 - **Code** - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
