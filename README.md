@@ -4,12 +4,12 @@
 
 | Logo | Symbol |
 |-|-|
-| ![](https://github.com/prisma/presskit/raw/main/Logos/Preview-PrismaLogo-Dark.png) | ![](https://github.com/prisma/presskit/raw/main/Logos/Preview-PrismaLogoSymbol-Dark.png) |
-| [PNG](https://github.com/prisma/presskit/raw/main/Logos/Logo-Dark-Prisma.png) • [SVG](https://github.com/prisma/presskit/raw/main/Logos/Logo-Dark-Prisma.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Logos/Logo-Dark-Prisma.png) • [SVG](https://github.com/prisma/presskit/raw/main/Logos/Logomark-Dark-Prisma.svg) |
-| ![](https://github.com/prisma/presskit/raw/main/Logos/Preview-PrismaLogo-Light.png) | ![](https://github.com/prisma/presskit/raw/main/Logos/Preview-PrismaLogoSymbol-Light.png) |
-| [PNG](https://github.com/prisma/presskit/raw/main/Logos/Logo-White-Prisma.png) • [SVG](https://github.com/prisma/presskit/raw/main/Logos/Logo-White-Prisma.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Logos/Logomark-Light-Prisma.png) • [SVG](https://github.com/prisma/presskit/raw/main/Logos/Logomark-Light-Prisma.svg) |
-| ![](https://github.com/prisma/presskit/raw/main/Logos/Preview-PrismaLogo-IndigoNoBG.png) | ![](https://github.com/prisma/presskit/raw/main/Logos/Preview-PrismaLogoSymbol-IndigoNoBG.png) |
-| [PNG](https://github.com/prisma/presskit/raw/main/Logos/Logo-Indigo-Prisma.png) • [SVG](https://github.com/prisma/presskit/raw/main/Logos/Logo-Indigo-Prisma.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Logos/Logomark-Indigo-Prisma.png) • [SVG](https://github.com/prisma/presskit/raw/main/Logos/Logomark-Indigo-Prisma.svg) |
+| ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-DarkLogo.png) | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-DarkSymbol.png) |
+| [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkLogo) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkLogo.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkSymbol) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkSymbol.svg) |
+| ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-LightLogo.png) | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-LightSymbol.png) |
+| [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightLogo.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightLogo.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightSymbol) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightSymbol.svg) |
+| ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-IndigoLogo.png) | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-IndigoSymbol.png) |
+| [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoLogo.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoLogo.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoLogo.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoLogo.svg) |
 
 
 ## Typography
