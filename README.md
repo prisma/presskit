@@ -1,8 +1,4 @@
 # Brand
-<br>
-
-👉 Please **do not use** it to **brand your own website** or **application**.<br>
-👉 Please **do not use** this logo to **imply sponsorship** or **association** with Prisma **without our explicit permission**.
 
 ## Logo
 
@@ -39,4 +35,9 @@
 | ![](https://user-images.githubusercontent.com/35201107/216070634-c336c936-29c8-49d7-ae6f-1f2015c6aab2.png) | ![](https://user-images.githubusercontent.com/35201107/216070631-9c78b382-e0f7-4cca-b772-1928b5fb3093.png) |
 | Only use the prisma colors | Don't put the logo on top of images |
 
+<br><br>
+ℹ️ These **guidelines** will help you to make a **correct use** of the **Prisma brand**.<br>
+✉️ [Reach out](hello@prisma.io) to us if you want to use them for a **personal project** or if you have **general questions**.<br><br>
+👉 Please **do not use** it to brand your **own website or application**. <br>
+👉 Please **do not use** this logo to **imply sponsorship** or **association with Prisma** without our explicit permission.
 
