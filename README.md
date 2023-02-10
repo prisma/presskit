@@ -1,8 +1,8 @@
 # Brand
 <br>
-ℹ️ These **guidelines** will help you to make a **correct use** of the **Prisma brand**.<br>
-👉 The **Prisma symbol** should only be used in places where there is **not enough room to display the full logo**,<br> 
-or in cases where only **symbols of multiple brands** are displayed.
+ℹ️ These *guidelines* will help you to make a **correct use** of the **Prisma brand**.<br>
+👉 The **Prisma symbol** should only be used in places where there is *not enough room to display the full logo*,<br> 
+or in cases where *only symbols of multiple brands are displayed*.
 
 ## Logo
 
@@ -16,8 +16,8 @@ or in cases where only **symbols of multiple brands** are displayed.
 | [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoLogo.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoLogo.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoSymbol.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoSymbol.svg) |
 
 <br><br>
-✉️ If you have any **questions** or want to **use these assets** for your **project** or **website**, please [reach out to us](hello@prisma.io).<br>
-👉 Please do not alter the Prisma logo or use it to **imply sponsorship** or **association with Prisma** without our explicit permission.<br>
+✉️ If you have any **questions** or want to use these assets for your *project* or *website*, please [**reach out to us**](hello@prisma.io).<br>
+👉 Please **do not alter the Prisma logo** or use it to *imply sponsorship* or *association with Prisma* without our explicit permission.<br>
 
 <br><br>
 ## Typography
