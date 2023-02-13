@@ -1,5 +1,6 @@
 # Brand
 <br>
+
 ℹ️ These *guidelines* will help you to make a **correct use** of the **Prisma brand**.<br>
 👉 The **Prisma symbol** should only be used in places where there is *not enough room to display the full logo*,<br> 
 or in cases where *only symbols of multiple brands are displayed*.
