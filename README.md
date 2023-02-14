@@ -1,8 +1,9 @@
 # Brand
 <br>
 
-👉 Please **do not use** it to **brand your own website** or **application**.<br>
-👉 Please **do not use** this logo to **imply sponsorship** or **association** with Prisma **without our explicit permission**.
+ℹ️ These *guidelines* will help you to make a **correct use** of the **Prisma brand**.<br>
+👉 The **Prisma symbol** should only be used in places where there is *not enough room to display the full logo*,<br> 
+or in cases where *only symbols of multiple brands are displayed*.
 
 ## Logo
 
@@ -15,8 +16,11 @@
 | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-IndigoLogo.png) | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-IndigoSymbol.png) |
 | [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoLogo.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoLogo.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoSymbol.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoSymbol.svg) |
 
+<br><br>
+✉️ If you have any **questions** or want to use these assets for your *project* or *website*, please [**reach out to us**](hello@prisma.io).<br>
+👉 Please **do not alter the Prisma logo** or use it to *imply sponsorship* or *association with Prisma* without our explicit permission.<br>
 
-<br><br><br>
+<br><br>
 ## Typography
 
 - **Headings** - [Barlow](https://fonts.google.com/specimen/Barlow)
@@ -38,5 +42,7 @@
 | Don't stack the logo | Don't rebrand it to your own product/project |
 | ![](https://user-images.githubusercontent.com/35201107/216070634-c336c936-29c8-49d7-ae6f-1f2015c6aab2.png) | ![](https://user-images.githubusercontent.com/35201107/216070631-9c78b382-e0f7-4cca-b772-1928b5fb3093.png) |
 | Only use the prisma colors | Don't put the logo on top of images |
+
+<br><br>
 
 
