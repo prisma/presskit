@@ -2,27 +2,27 @@
 
 Built something awesome with Prisma? 🌟 Show it off with these badges, perfect for your readme or website.
 
-[![Made with Prisma](https://made-with.prisma.io/dark.svg)](https://prisma.io)
+[![Made with Prisma](http://made-with.prisma.io/dark.svg)](https://prisma.io)
 
 ``` md
-[![Made with Prisma](https://made-with.prisma.io/dark.svg)](https://prisma.io)
+[![Made with Prisma](http://made-with.prisma.io/dark.svg)](https://prisma.io)
 ```
 
 ``` html
 <a href="https://prisma.io">
-  <img width="122" height="20" src="https://made-with.prisma.io/dark.svg" alt="Made with Prisma"/>
+  <img width="122" height="20" src="http://made-with.prisma.io/dark.svg" alt="Made with Prisma"/>
 </a>
 ```
 
-[![Made with Prisma](https://made-with.prisma.io/indigo.svg)](https://prisma.io)
+[![Made with Prisma](http://made-with.prisma.io/indigo.svg)](https://prisma.io)
 
 ``` md
-[![Made with Prisma](https://made-with.prisma.io/indigo.svg)](https://prisma.io)
+[![Made with Prisma](http://made-with.prisma.io/indigo.svg)](https://prisma.io)
 ```
 
 ``` html
 <a href="https://prisma.io">
-  <img width="122" height="20" src="https://made-with.prisma.io/indigo.svg" alt="Made with Prisma" />
+  <img width="122" height="20" src="http://made-with.prisma.io/indigo.svg" alt="Made with Prisma" />
 </a>
 ```
 
