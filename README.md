@@ -10,7 +10,7 @@ Built something awesome with Prisma? 🌟 Show it off with these badges, perfect
 
 ``` html
 <a href="https://prisma.io">
-  <img width="122" height="20" src="http://made-with.prisma.io/dark.svg" alt="Made with Prisma"/>
+  <img width="122" height="20" src="http://made-with.prisma.io/dark.svg" alt="Made with Prisma" />
 </a>
 ```
 
