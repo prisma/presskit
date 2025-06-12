@@ -25,34 +25,43 @@ Built something awesome with Prisma? 🌟 Show it off with these badges, perfect
   <img width="122" height="20" src="http://made-with.prisma.io/indigo.svg" alt="Made with Prisma" />
 </a>
 ```
+<br> <br> 
+
 
 # Brand
 
 ℹ️ These *guidelines* will help you to make a **correct use** of the **Prisma brand**.<br>
 👉 The **Prisma symbol** should only be used in places where there is *not enough room to display the full logo*,<br> 
-or in cases where *only symbols of multiple brands are displayed*.
+or in cases where *only symbols of multiple brands are displayed*.<br> <br> 
 
-## Logo
+# Logo <br> 
 
+### Dark Version
 | Logo | Symbol |
 |-|-|
 | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-DarkLogo.png) | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-DarkSymbol.png) |
-| [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkLogo.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkLogo.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkSymbol.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkSymbol.svg) |
+| ⬇️ [**PNG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkLogo.png) • ⬇️ [**SVG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkLogo.svg) | ⬇️ [**PNG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkSymbol.png) • ⬇️ [**SVG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkSymbol.svg) |
+
+### Light Version
+| Logo | Symbol |
+|-|-|
 | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-LightLogo.png) | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-LightSymbol.png) |
-| [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightLogo.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightLogo.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightSymbol.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightSymbol.svg) |
-| ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-IndigoLogo.png) | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-IndigoSymbol.png) |
-| [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoLogo.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoLogo.svg) | [PNG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoSymbol.png) • [SVG](https://github.com/prisma/presskit/raw/main/Assets/Prisma-IndigoSymbol.svg) |
+| ⬇️ [**PNG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightLogo.png) • ⬇️ [**SVG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightLogo.svg) | ⬇️ [**PNG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightSymbol.png) • ⬇️ [**SVG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightSymbol.svg) |
+<br><br>
 
 ✉️ If you have any **questions** or want to use these assets for your *project* or *website*, please [**reach out to us**](hello@prisma.io).<br>
-👉 Please **do not alter the Prisma logo** or use it to *imply sponsorship* or *association with Prisma* without our explicit permission.<br>
+👉 Please **do not alter the Prisma logo** or use it to *imply sponsorship* or *association with Prisma* without our explicit permission.<br><br> 
 
 ## Typography
 
 - **Headings** - [Barlow](https://fonts.google.com/specimen/Barlow)
 - **Body** - [Inter](https://fonts.google.com/specimen/Inter)
 - **Code** - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
+<br> <br> 
+
 
 ## Best Practices
+These are some basic guidelines on how _not_ to use our logo, for clarity and aesthetics.<br><br> 
 
 | Logo | Guidelines |
 |-|-|
