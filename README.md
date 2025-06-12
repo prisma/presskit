@@ -47,8 +47,8 @@ or in cases where *only symbols of multiple brands are displayed*.<br> <br>
 |-|-|
 | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-LightLogo.png) | ![](https://github.com/prisma/presskit/raw/main/Assets/Preview-Prisma-LightSymbol.png) |
 | ⬇️ [**PNG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightLogo.png) • ⬇️ [**SVG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightLogo.svg) | ⬇️ [**PNG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightSymbol.png) • ⬇️ [**SVG**](https://github.com/prisma/presskit/raw/main/Assets/Prisma-LightSymbol.svg) |
-<br><br>
 
+<br><br>
 ✉️ If you have any **questions** or want to use these assets for your *project* or *website*, please [**reach out to us**](hello@prisma.io).<br>
 👉 Please **do not alter the Prisma logo** or use it to *imply sponsorship* or *association with Prisma* without our explicit permission.<br><br> 
 
